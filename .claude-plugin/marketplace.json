@@ -13,11 +13,6 @@
       "description": "Manage Ghost blog content - create posts, sync drafts, push changes"
     },
     {
-      "name": "readwise-assistant",
-      "source": "./readwise-assistant",
-      "description": "Comprehensive Readwise integration - search highlights, save content, analyze reading data, export highlights"
-    },
-    {
       "name": "obsidian-skills",
       "source": "./obsidian-skills",
       "description": "Obsidian vault skills - create and edit Markdown, Bases, and Canvas files"
