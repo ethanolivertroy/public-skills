@@ -1,0 +1,36 @@
+{
+  "name": "ethanolivertroy/public-skills",
+  "owner": {
+    "name": "Ethan Troy"
+  },
+  "metadata": {
+    "description": "Original agent skills and Claude Code plugins by Ethan Troy"
+  },
+  "plugins": [
+    {
+      "name": "ralph-loop",
+      "source": "./ralph-loop",
+      "description": "Continuous self-referential AI loops for iterative development"
+    },
+    {
+      "name": "image-generator",
+      "source": "./image-generator",
+      "description": "Generate and edit images using Gemini image models"
+    },
+    {
+      "name": "exif-stripper",
+      "source": "./exif-stripper",
+      "description": "Strip sensitive EXIF metadata from images before publishing"
+    },
+    {
+      "name": "made-to-stick",
+      "source": "./made-to-stick",
+      "description": "Apply the SUCCESs framework to make ideas, copy, and content more memorable"
+    },
+    {
+      "name": "mischief-managed",
+      "source": "./mischief-managed",
+      "description": "End-of-session summary to Obsidian with decisions, changes, and follow-ups"
+    }
+  ]
+}
